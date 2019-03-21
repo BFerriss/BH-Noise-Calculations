@@ -2,7 +2,7 @@
 Beacon Hill noise calculations and maps
 
 1. "noise calculation" file  include code to process and analyze raw noise data (db) collected from noise meters. 
-2. "app" file includes code to create a map of LDN and LEQ values and publish on 
+2. "app" file includes code to create and publish a Shiny map with LDN and LEQ values  
 
 Information for this project can be found at 
  https://beaconhillseattlenoise.org/ 
